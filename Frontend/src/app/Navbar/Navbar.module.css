@@ -1,0 +1,18 @@
+/* components/Navbar.module.css */
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content:center;
+}
+.navitem {
+    color: white;
+    text-decoration: none;
+}
+
+.navspace {
+    margin-right: 15px;
+    text-decoration: none;
+    font-size: larger;
+}
